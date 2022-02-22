@@ -1,2 +1,0 @@
-# Vikash-kumar-gaur
-c#
